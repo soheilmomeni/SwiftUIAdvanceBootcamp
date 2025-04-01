@@ -30,6 +30,7 @@
 		843DED172D97DB43003FB3B8 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */; };
 		843DED192D97DE4B003FB3B8 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */; };
 		84ABDE422D9C779000BF8514 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */; };
+		84ABDE442D9C88DF00BF8514 /* ConditionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */,
 				843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */,
 				84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */,
+				84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */,
 			);
 			path = SwiftUI2Tutorial;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				843DECF72D944B26003FB3B8 /* TextBootcamp.swift in Sources */,
 				843DECFD2D94C0C0003FB3B8 /* GradientBootcamp.swift in Sources */,
 				843DED092D95EE65003FB3B8 /* StacksBootcamp.swift in Sources */,
+				84ABDE442D9C88DF00BF8514 /* ConditionBootcamp.swift in Sources */,
 				843DECE92D944779003FB3B8 /* SwiftUI2TutorialApp.swift in Sources */,
 				843DECFF2D9543A7003FB3B8 /* IconsBootcamp.swift in Sources */,
 				843DED0B2D95EFD9003FB3B8 /* PaddingBootcamp.swift in Sources */,
