@@ -29,6 +29,7 @@
 		843DED152D97C2C4003FB3B8 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED142D97C2C4003FB3B8 /* SafeAreaBootcamp.swift */; };
 		843DED172D97DB43003FB3B8 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */; };
 		843DED192D97DE4B003FB3B8 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */; };
+		84ABDE422D9C779000BF8514 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		843DED142D97C2C4003FB3B8 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				843DED142D97C2C4003FB3B8 /* SafeAreaBootcamp.swift */,
 				843DED162D97DB43003FB3B8 /* ButtonBootcamp.swift */,
 				843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */,
+				84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */,
 			);
 			path = SwiftUI2Tutorial;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				843DED192D97DE4B003FB3B8 /* StateBootcamp.swift in Sources */,
+				84ABDE422D9C779000BF8514 /* BindingBootcamp.swift in Sources */,
 				843DECFB2D94B506003FB3B8 /* ColorsBootcamp.swift in Sources */,
 				843DED072D95E4CE003FB3B8 /* OverlayBootcamp.swift in Sources */,
 				843DED112D971B6E003FB3B8 /* ScrollViewBootcamp.swift in Sources */,
