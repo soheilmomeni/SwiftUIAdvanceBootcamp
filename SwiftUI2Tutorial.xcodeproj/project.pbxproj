@@ -32,6 +32,7 @@
 		84ABDE422D9C779000BF8514 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */; };
 		84ABDE442D9C88DF00BF8514 /* ConditionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */; };
 		84ABDE462D9C8FD400BF8514 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */; };
+		84ABDE482D9D937E00BF8514 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE472D9D937E00BF8514 /* AnimationTimingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionBootcamp.swift; sourceTree = "<group>"; };
 		84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		84ABDE472D9D937E00BF8514 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */,
 				84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */,
 				84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */,
+				84ABDE472D9D937E00BF8514 /* AnimationTimingBootcamp.swift */,
 			);
 			path = SwiftUI2Tutorial;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				843DED152D97C2C4003FB3B8 /* SafeAreaBootcamp.swift in Sources */,
 				843DED012D95474C003FB3B8 /* ImagesBootcamp.swift in Sources */,
 				84ABDE462D9C8FD400BF8514 /* AnimationBootcamp.swift in Sources */,
+				84ABDE482D9D937E00BF8514 /* AnimationTimingBootcamp.swift in Sources */,
 				843DECEB2D944779003FB3B8 /* ContentView.swift in Sources */,
 				843DED172D97DB43003FB3B8 /* ButtonBootcamp.swift in Sources */,
 				843DED0F2D9719EA003FB3B8 /* ForEachBootcamp.swift in Sources */,
