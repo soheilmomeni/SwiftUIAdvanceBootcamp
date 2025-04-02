@@ -31,6 +31,7 @@
 		843DED192D97DE4B003FB3B8 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */; };
 		84ABDE422D9C779000BF8514 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */; };
 		84ABDE442D9C88DF00BF8514 /* ConditionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */; };
+		84ABDE462D9C8FD400BF8514 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionBootcamp.swift; sourceTree = "<group>"; };
+		84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				843DED182D97DE4B003FB3B8 /* StateBootcamp.swift */,
 				84ABDE412D9C779000BF8514 /* BindingBootcamp.swift */,
 				84ABDE432D9C88DF00BF8514 /* ConditionBootcamp.swift */,
+				84ABDE452D9C8FD400BF8514 /* AnimationBootcamp.swift */,
 			);
 			path = SwiftUI2Tutorial;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				843DED0D2D9716EC003FB3B8 /* InitializerBootcamp.swift in Sources */,
 				843DED152D97C2C4003FB3B8 /* SafeAreaBootcamp.swift in Sources */,
 				843DED012D95474C003FB3B8 /* ImagesBootcamp.swift in Sources */,
+				84ABDE462D9C8FD400BF8514 /* AnimationBootcamp.swift in Sources */,
 				843DECEB2D944779003FB3B8 /* ContentView.swift in Sources */,
 				843DED172D97DB43003FB3B8 /* ButtonBootcamp.swift in Sources */,
 				843DED0F2D9719EA003FB3B8 /* ForEachBootcamp.swift in Sources */,
